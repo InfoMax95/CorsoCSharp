@@ -3,6 +3,6 @@
 // senza inserire tutto il codice della classe e il namespace
 
 Console.WriteLine("Hello, World!");
-int v = Console.Read();
+Console.Read();
 
 
